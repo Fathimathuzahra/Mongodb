@@ -1,4 +1,4 @@
-# Mongodb
+# MongoDB
 
 # 🍃 MongoDB Basic Syntax Cheat Sheet
 
