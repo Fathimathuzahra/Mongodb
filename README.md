@@ -1,7 +1,5 @@
 # MongoDB
 
-# 🍃 MongoDB Basic Syntax Cheat Sheet
-
 ## 🔹 1. Database Commands
 ```js
 // Show all databases
@@ -181,7 +179,3 @@ db.collection_name.renameCollection("new_name")
 // Drop entire collection
 db.collection_name.drop()
 ```
-
----
-
-🧠 *MongoDB stores data as BSON (Binary JSON), and operations are performed using JavaScript-like syntax in the shell.*
